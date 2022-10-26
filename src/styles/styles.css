@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+    background-color: white;
+  }
+
+  .main-container {
+    background-color: white !important;
+    min-height: 100vh;
+  }
+  
+  .subtitle {
+    margin-top: -10px;
+    margin-left: 2rem;
+  }
+
+  button {
+    background-color: #0F2B9B !important;
+    border-color: #0F2B9B !important;
+  }
+
+  footer   {
+    color: red !important;
+  }
